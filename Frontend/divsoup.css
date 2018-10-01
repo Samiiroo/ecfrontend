@@ -1,0 +1,13 @@
+.divsamling
+  {
+    background-color: blue;
+    width: 50em;
+    height: 50em;
+  }
+.divsamling div
+{
+  width: 50%;
+  height: 50%;
+  border: 1px solid red;
+
+}

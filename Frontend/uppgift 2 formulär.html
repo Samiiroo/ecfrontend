@@ -1,0 +1,65 @@
+<DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset ="utf-8">
+  <title>Min första HTML-sida</title>
+</head>
+<body>
+
+    <form action="" method="get" class="form-example">
+      <div class="form-example">
+        <label for="name">Enter your name: </label>
+        <input type="text" name="name" id="name" required>
+      </div>
+
+      <div class="form-example">
+        <label for="email">Enter your email: </label>
+        <input type="email" name="email" id="email" required>
+      </div>
+
+          <div>
+     <label for="password">Password:</label>
+     <input type="password" id="password" name="password"
+            minlength="8" required
+            placeholder="8 characters minimum" required />
+          </div>
+          <div class="age">
+            <label for="age">Enter your age: </label>
+            <input type="number" name="age" id="age" required>
+          </div>
+<div>
+  <label for="password">Retype Password:</label>
+  <input type="password" id="password" name="password"
+         minlength="8" required
+         placeholder="8 characters minimum" />
+       </div>
+
+       <div>
+         <label for="Kön">Gender </label>
+            <input type="radio" id="Kön" name="Kön" checked />
+            <label for="Male">Male</label required>
+        </div>
+
+        <div>
+            <input type="radio" id="Kön" name="Kön" />
+            <label for="female">Female</label required>
+        </div>
+
+      <label for="country-select">country:</label >
+
+      <select id="Country" required>
+          <option value="">--Please choose an option--</option>
+          <option value="sweden">sweden</option>
+          <option value="denmark">denmark</option>
+          <option value="norway">norway</option>
+
+
+      </select>
+      <div class="form-example">
+        <input type="submit" value="registrera!">
+      </div>
+    </form>
+
+
+</body>
+  </html>

@@ -1,0 +1,25 @@
+.header{
+  border: 5px solid black;
+height: 100px;
+padding: 50px;
+background-color: red;
+}
+.footer{
+  border: 5px solid black;
+  clear:both;
+}
+.sidebar{
+  margin:0px;
+  height: 300px;
+  width: 250px;
+  border: 5px solid black;
+  float: left;
+
+}
+.main{
+    margin:0px;
+    height: 300px;
+    width: 250px;
+    border: 5px solid black;
+    float: left;
+}
