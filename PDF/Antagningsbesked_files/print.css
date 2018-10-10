@@ -1,0 +1,15 @@
+﻿/*To make a page look like it's in print preview*/
+
+body {background-color:#fff;margin:0;padding:0;}
+#content {margin:0;padding:0;background-color:#fff;}
+#main {background-color:#fff;border:0;}
+h1,h2,h3 {color:#000;}
+#header, #breadcrumbs, #footer, .hidefromprint{display:none;}
+
+#printheader{display:block;}
+
+
+.item-members {border:0;background-color:#fff;}
+.item-header {background-color:#fff;color:#000;}
+    .item-header h2, h3 {color:#000;}
+    .item-header h2 {font-size: 20px; font-weight:bold;}

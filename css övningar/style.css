@@ -1,0 +1,16 @@
+body {
+  background-color: cyan;
+}
+p{
+  font-size: 32px;
+}
+.highlight {
+  background-color: red;2
+  } /*   */
+
+#highlight-border .highlight {
+  border-color: green;
+  border-width: 2px;
+  border-style: ridge;
+}
+.higlight

@@ -1,0 +1,14 @@
+ul li:first-child
+{
+    color: red;
+}
+ul li:last-child
+{
+    color: blue;
+}
+ul li:not(:first-child){
+  font-size: 60px;
+}
+ul li:nth-child(2){
+  font-size: 20px;
+}

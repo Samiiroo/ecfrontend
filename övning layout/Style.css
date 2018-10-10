@@ -1,0 +1,25 @@
+﻿
+header
+{
+background-color: blue;
+border: 2px solid black;
+}
+h1
+{
+  margin:auto;
+   max-width: 1000px;
+   height: 200px;
+   line-height: 200px;
+}
+
+#hej
+{
+  margin :100px;
+
+}
+footer{
+background: blue;
+height: 55px;
+text-align: center;
+margin: -8px;
+}
