@@ -1,0 +1,19 @@
+.a1{
+border: solid;
+    background-image: url("anon.jpg");
+  box-sizing: border-box;
+  height: 400px;
+  width: 50%;
+  float: left;
+  padding: 25px;
+}
+.a2 {
+border: solid;
+border-color: mistyrose;
+  box-sizing: border-box;
+  background-image: url("dog.png");
+  height: 400px;
+  width: 50%;
+  float:right;
+  padding: 25px;
+}

@@ -1,0 +1,35 @@
+  /* box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);*/
+  body
+  {
+
+  width: inherit;
+  height: inherit;
+  margin: 0;
+   background-image: url("dog.png");
+
+  }
+  .titel
+  {
+    width:inherit;
+    height:100vh;
+    background: linear-gradient(#eb01a5, #d13531);
+    opacity: 0.6;
+
+  }
+  h3
+  {
+  padding-top: 35vh;
+  margin: 0;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+  }
+  h2
+  {
+  padding-top: 35vh;
+  margin: 0;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+
+  }
